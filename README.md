@@ -1,6 +1,6 @@
 # webcomunication
 
-A new Flutter project.
+Two-way communication between a WebView and a web page
 
 ## Getting Started
 
